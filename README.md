@@ -1,6 +1,6 @@
 # test-socket-server
 
 
-`npm i
+```npm i
 npm run dev
-npm run test`
+npm run test```
